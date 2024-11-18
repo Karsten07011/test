@@ -1,0 +1,261 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2024 Aspose Pty Ltd.
+# File created: 11/18/2024 20:05:10
+
+newmtl _McLaren_720STNR1_2017Grille7A_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd McLaren_720STNR_2017_Grille7A_DiffuseAOSO.png
+	norm McLaren_720STNR_2017_Grille7A_Normal.png
+newmtl _McLaren_720STNR1_2017InteriorA_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd McLaren_720STNR_2017_InteriorA_DiffuseAOSO.png
+	norm McLaren_720STNR_2017_InteriorA_Normal.png
+newmtl _McLaren_720STNR1_2017Carbon1M_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd common_carbon05_black_diff.png
+	norm common_carbon05_norm.png
+newmtl _McLaren_720STNR1_2017Grille3B_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd McLaren_720STNR_2017_Grille3D_DiffuseAOSO.png
+	norm McLaren_720STNR_2017_Grille3D_Normal.png
+newmtl _McLaren_720STNR1_2017ManufacturerPlateB_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd McLaren_720STNR_2017_ManufacturerPlateB_Diffuse.png
+newmtl _McLaren_720STNR1_2017EngineA_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd McLaren_720STNR_2017_EngineA_DiffuseAOSO.png
+	norm McLaren_720STNR_2017_EngineA_Normal.png
+newmtl _McLaren_720STNR1_2017Grille8A_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd McLaren_720STNR_2017_Grille8A_DiffuseAOSO.png
+	norm McLaren_720STNR_2017_Grille8A_Normal.png
+newmtl _McLaren_720STNR1_2017BadgeB_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd badges.png
+	norm McLaren_720STNR_2017_BadgeA_Normal.png
+newmtl _McLaren_720STNR1_2017Coloured_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd Global_Texture_Coloured_Diffuse.png
+newmtl _McLaren_720STNR1_2017PaintTNR_Material1
+	Ka 1 1 1
+	Kd 1 0.53846663 0
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+newmtl _McLaren_720STNR1_2017Grille9A_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd McLaren_720STNR_2017_Grille9A_DiffuseAOSO.png
+	norm McLaren_720STNR_2017_Grille9A_Normal.png
+newmtl _McLaren_720STNR1_2017Base_Material1
+	Ka 1 1 1
+	Kd 0 0 0
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+newmtl _McLaren_720STNR1_2017Grille1B_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd McLaren_720STNR_2017_Grille1D_DiffuseAOSO.png
+	norm McLaren_720STNR_2017_Grille1D_Normal.png
+newmtl _McLaren_720STNR1_2017Window_Material1
+	Ka 1 1 1
+	Kd 0 0 0
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 0
+	Tr 1
+newmtl _McLaren_720STNR1_2017InteriorTillingColourZoneA_Material1
+	Ka 1 1 1
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	norm McLaren_720STNR_2017_InteriorTillingColourZoneA_Normal.png
+newmtl _McLaren_720STNR1_2017Grille2B_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd McLaren_720STNR_2017_Grille2D_DiffuseAOSO.png
+	norm McLaren_720STNR_2017_Grille2D_Normal.png
+newmtl _McLaren_720STNR1_2017LightA_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd McLaren_720STNR_2017_LightA_Diffuse.png
+newmtl RED_GLASS
+	Ka 0 0 0
+	Kd 0.9230769 0 0
+	Ke 0 0 0
+	illum 2
+	Ks 0.5 0.5 0.5
+	Ns 20
+	d 0.55244756
+	Tr 0.44755244
+newmtl _McLaren_720STNR1_2017Hood1a_Badge_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd McLaren_720STNR_2017_Hood3a_Badge_DiffuseAOSO.png
+	norm McLaren_720STNR_2017_Hood3a_Badge_Normal.png
+newmtl _McLaren_720STNR1_2017Base_Material_002
+	Ka 1 1 1
+	Kd 0 0 0
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+newmtl _McLaren_720STNR1_2017Coloured_Material_002
+	Ka 1 1 1
+	Kd 0 1 0
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+newmtl W:_TNRRims_109A20NbTireBlur_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\tuners\WHEELS.fbm\TOYO_ProxesR888_A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\720S\tuners\WHEELS.fbm\TOYO_ProxesR888_A_Normal.png
+newmtl W:_TNRRims_109A20NbTNR_Rim109A_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\tuners\WHEELS.fbm\TNR_Rim109A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\720S\tuners\WHEELS.fbm\TNR_Rim109A_Normal.png
+newmtl W:_TNRRims_109A20NbBrakeDisc_ForgedDrilled_Material1
+	Ka 1 1 1
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 1 1 1
+	Ns 202
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\tuners\WHEELS.fbm\BrakeDisc_ForgedDrilled_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\720S\tuners\WHEELS.fbm\BrakeDisc_ForgedDrilled_Normal.png
+newmtl McLaren_720STNR1_2017_CallipersCalliperGloss_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0

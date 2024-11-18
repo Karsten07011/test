@@ -1,0 +1,219 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2024 Aspose Pty Ltd.
+# File created: 11/18/2024 19:52:03
+
+newmtl McLaren_765LT_2021BadgeA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_BadgeA_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_BadgeA_Normal.png
+newmtl McLaren_765LT_2021Base_Material
+	Ka 0.2 0.2 0.2
+	Kd 0 0 0
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+newmtl McLaren_765LT_2021Carbon1M_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd common_carbon05_black_diff.png
+	norm common_carbon05_norm.png
+newmtl McLaren_765LT_2021Carbon1_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd common_carbon05_black_diff.png
+	norm common_carbon05_norm.png
+newmtl McLaren_765LT_2021Coloured_Material
+	Ka 0.2 0.2 0.2
+	Kd 0.027972028 0.027972028 0.027972028
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+newmtl McLaren_765LT_2021Grille1A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Grille1A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Grille1A_Normal.png
+newmtl McLaren_765LT_2021Grille2A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Grille2A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Grille2A_Normal.png
+newmtl McLaren_765LT_2021Grille3A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Grille3A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Grille3A_Normal.png
+newmtl McLaren_765LT_2021Grille4A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Grille4A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Grille4A_Normal.png
+newmtl McLaren_765LT_2021Grille5A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Grille5A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Grille5A_Normal.png
+newmtl McLaren_765LT_2021Grille6A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Grille6A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Grille6A_Normal.png
+newmtl McLaren_765LT_2021InteriorA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_InteriorA_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_InteriorA_Normal.png
+newmtl McLaren_765LT_2021LightA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_LightA_Diffuse.png
+newmtl McLaren_765LT_2021ManufacturerPlateA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_ManufacturerPlateA_Diffuse.png
+newmtl McLaren_765LT_2021Paint_Material
+	Ka 0.2 0.2 0.2
+	Kd 0.629 0.15193494 0
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+newmtl McLaren_765LT_2021SeatBelt_Material
+	Ka 0.2 0.2 0.2
+	Kd 0.08391608 0.08391608 0.08391608
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+newmtl McLaren_765LT_2021SpecularTintA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_SpecularTintA_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_SpecularTintA_Normal.png
+newmtl McLaren_765LT_2021WindowInside_Material
+	Ka 0.062937066 0.062937066 0.062937066
+	Kd 0.25874126 0.25874126 0.25874126
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 0.3006993
+	Tr 0.6993007
+newmtl McLaren_765LT_2021Window_Material
+	Ka 0.10489511 0.10489511 0.10489511
+	Kd 0.25174826 0.25174826 0.25174826
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 0.23076922
+	Tr 0.7692308
+newmtl McLaren_765LT_2021_Wheel1A_3D_3DWheel1D_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Wheel1D_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\765 LT\McLaren_765LT_2021_Wheel1A_Normal.png
+newmtl McLaren_765LT_2021_CallipersCalliperGloss_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0

@@ -1,0 +1,227 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2024 Aspose Pty Ltd.
+# File created: 11/18/2024 20:06:47
+
+newmtl McLaren_720SGT3X_2021BadgeA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_BadgeA_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_BadgeA_Normal.png
+newmtl McLaren_720SGT3X_2021Base_Material
+	Ka 0.2 0.2 0.2
+	Kd 0 0 0
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+newmtl McLaren_720SGT3X_2021Carbon1M_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd common_carbon05_black_diff.png
+	norm common_carbon05_norm.png
+newmtl McLaren_720SGT3X_2021Carbon1_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd common_carbon05_black_diff.png
+	norm common_carbon05_norm.png
+newmtl McLaren_720SGT3X_2021Carbon2M_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd common_carbon05_black_diff.png
+	norm common_carbon05_norm.png
+newmtl McLaren_720SGT3X_2021Coloured_Material
+	Ka 0.2 0.2 0.2
+	Kd 0 0 0
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+newmtl McLaren_720SGT3X_2021Grille1A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_Grille1A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_Grille1A_Normal.png
+newmtl McLaren_720SGT3X_2021Grille2A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_Grille2A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_Grille2A_Normal.png
+newmtl McLaren_720SGT3X_2021Grille3A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_Grille3A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_Grille4A_Normal.png
+newmtl McLaren_720SGT3X_2021Grille4A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_Grille4A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_Grille4A_Normal.png
+newmtl McLaren_720SGT3X_2021Grille5A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_Grille5A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_Grille5A_Normal.png
+newmtl McLaren_720SGT3X_2021InteriorA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_InteriorA_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_InteriorA_Normal.png
+newmtl McLaren_720SGT3X_2021LightEmissiveA_Material
+	Ka 0.08391608 0.08391608 0.08391608
+	Kd 0.8 0.8 0.8
+	Ke 0.5 0.5 0.5
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Ke McLaren_720SGT3X_2021_LightA_Emissive.png
+newmtl McLaren_720SGT3X_2021LightA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_LightA_Diffuse.png
+newmtl McLaren_720SGT3X_2021Paint_Material
+	Ka 0.2 0.2 0.2
+	Kd 0 0 0
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+newmtl phong2
+	Ka 0 0 0
+	Kd 1 0.30770004 0
+	Ke 0 0 0
+	illum 2
+	Ks 0.5 0.5 0.5
+	Ns 20
+	d 1
+	Tr 0
+newmtl phong1
+	Ka 0 0 0
+	Kd 0.07692308 0.07692308 0.07692308
+	Ke 0 0 0
+	illum 2
+	Ks 0.5 0.5 0.5
+	Ns 4.055944
+	d 1
+	Tr 0
+newmtl McLaren_720SGT3X_2021SeatBelt_Material
+	Ka 0.2 0.2 0.2
+	Kd 0.04895105 0.04895105 0.04895105
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+newmtl McLaren_720SGT3X_2021WindowInside_Material
+	Ka 0.027972028 0.027972028 0.027972028
+	Kd 0.013986014 0.013986014 0.013986014
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 0.33566433
+	Tr 0.66433567
+newmtl McLaren_720SGT3X_2021Window_Material
+	Ka 0.04895105 0.04895105 0.04895105
+	Kd 0 0 0
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 0.11888111
+	Tr 0.8811189
+newmtl McLaren_720SGT3X_2021_Wheel1A_3D_3DWheel1A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_Wheel1A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_Wheel1A_Normal.png
+newmtl McLaren_720SGT3X_2021_CallipersCalliperA_Zone_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\720S\GT3X\McLaren_720SGT3X_2021_CalliperA_Zone_Diffuse.png

@@ -1,0 +1,232 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2024 Aspose Pty Ltd.
+# File created: 11/18/2024 20:06:14
+
+newmtl McLaren_SennaGTR_2020BadgeA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_BadgeA_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_BadgeA_Normal.png
+newmtl McLaren_SennaGTR_2020Base_Material
+	Ka 0.2 0.2 0.2
+	Kd 0 0 0
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+newmtl McLaren_SennaGTR_2020Carbon1DetailsA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd common_carbon05_black_diff.png
+	norm common_carbon05_norm.png
+newmtl McLaren_SennaGTR_2020Carbon1_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd common_carbon05_black_diff.png
+	norm common_carbon05_norm.png
+newmtl McLaren_SennaGTR_2020Coloured_Material
+	Ka 0.2 0.2 0.2
+	Kd 0.034965035 0.034965035 0.034965035
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+newmtl McLaren_SennaGTR_2020EngineA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_EngineA_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_EngineA_Normal.png
+newmtl McLaren_SennaGTR_2020Grille1A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Grille1A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Grille1A_Normal.png
+newmtl McLaren_SennaGTR_2020Grille2A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Grille2A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Grille2A_Normal.png
+newmtl McLaren_SennaGTR_2020Grille3A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Grille3A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Grille3A_Normal.png
+newmtl McLaren_SennaGTR_2020Grille4A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Grille4A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Grille4A_Normal.png
+newmtl McLaren_SennaGTR_2020Grille5A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Grille5A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Grille5A_Normal.png
+newmtl McLaren_SennaGTR_2020Grille6A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Grille6A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Grille6A_Normal.png
+newmtl McLaren_SennaGTR_2020InteriorTillingA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_InteriorTillingA_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_InteriorTillingA_Normal.png
+newmtl McLaren_SennaGTR_2020InteriorA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_InteriorA_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_InteriorA_Normal.png
+newmtl McLaren_SennaGTR_2020LightEmissiveA_Material
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+newmtl McLaren_SennaGTR_2020LightA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_LightA_Diffuse.png
+newmtl McLaren_SennaGTR_2020PaintA_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_LiveryA_Diffuse.png
+newmtl McLaren_SennaGTR_2020SeatBelt_Material
+	Ka 0.2 0.2 0.2
+	Kd 0.06993007 0.06993007 0.06993007
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+newmtl McLaren_SennaGTR_2020WindowA_Material
+	Ka 0.04195804 0.04195804 0.04195804
+	Kd 0.04895105 0.04895105 0.04895105
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 0.104895115
+	Tr 0.8951049
+newmtl phong1
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0.5 0.5 0.5
+	illum 2
+	Ks 0.5 0.5 0.5
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd Prueba.jpg
+	map_Ke Prueba.jpg
+newmtl McLaren_SennaGTR_2020_Wheel1A_3D_3DWheel1A_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0
+	map_Kd E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Wheel1A_DiffuseAOSO.png
+	norm E:\Ddiaz Design\Repositorio 3D\McLaren\Senna\McLaren_SennaGTR_2020_Wheel1A_Normal.png
+newmtl McLaren_SennaGTR_2020_CallipersCalliperGloss_Material
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	d 1
+	Tr 0

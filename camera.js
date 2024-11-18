@@ -7,5 +7,6 @@ export function setupCameraControls(camera, renderer) {
   controls.dampingFactor = 0.25; // Damping factor
   controls.screenSpacePanning = false; // Do not allow panning in screen space
   controls.maxPolarAngle = Math.PI / 2; // Limit vertical rotation to 90 degrees
+  controls.enabled = false; // Start with controls disabled
   return controls;
 }
